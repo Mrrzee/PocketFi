@@ -1,1 +1,1 @@
-Paste your query_id/user
+query_id=AAFeXX49AgAAAF5dfj3OqE-Z&user=%7B%22id%22%3A5326658910%2C%22first_name%22%3A%22Raja%20Zaid%22%2C%22last_name%22%3A%22Habib%F0%9F%8C%B1SEED%F0%9F%92%A0%F0%9F%92%A0%F0%9F%92%A0%22%2C%22username%22%3A%22Rajazaid%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728854682&hash=ed42d7b0819ae58c006e85685ad218c673fcf43de0058935c507c15bff6866d4
